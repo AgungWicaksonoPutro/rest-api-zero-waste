@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "zerowaste.app.paymentKey",
+      "type": "java.lang.String",
+      "description": "Description for zerowaste.app.paymentKey."
+  }
+] }
